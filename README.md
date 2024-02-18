@@ -9,6 +9,16 @@ An API documentation for managing users built with Express.js.
 3. Start the server: `npm start`
 4. Open your browser and visit: `http://localhost:3000`
 
+## OpenAPI Documentation
+
+You can explore the API documentation using Swagger UI by navigating to `/api-docs` path on your server. This will present you with an interactive interface to view and interact with the API endpoints.
+
+To access the Swagger documentation:
+
+- **URL:** `/api-docs`
+- **Method:** `GET`
+- **Description:** OpenAPI documentation for the API
+
 ## API Endpoints
 
 ### Welcome
